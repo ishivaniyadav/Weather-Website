@@ -1,1 +1,2 @@
 # Weather-Website
+A dynamic website leveraging HTML, CSS, and JavaScript to fetch real-time weather data from an API and display current weather conditions. Seamlessly integrating front-end technologies, this project offers users instant access to accurate weather updates. With sleek design and intuitive functionality, it provides a user-friendly experience for staying informed about the latest weather conditions.
